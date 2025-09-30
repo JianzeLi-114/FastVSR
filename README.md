@@ -71,5 +71,13 @@ Jianze Li, [Yong Guo](https://www.guoyongcs.com/), [Yulun Zhang*](http://yulunzh
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-
+@misc{li2025fast,
+      title={Asymmetric VAE for One-Step Video Super-Resolution Acceleration}, 
+      author={Jianze Li and Yong Guo and Yulun Zhang and Xiaokang Yang},
+      year={2025},
+      eprint={2509.24142},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.24142}, 
+}
 ```
