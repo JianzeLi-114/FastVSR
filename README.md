@@ -2,7 +2,7 @@
 
 Jianze Li, [Yong Guo](https://www.guoyongcs.com/), [Yulun Zhang*](http://yulunzhang.com/), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) "Asymmetric VAE for One-Step Video Super-Resolution Acceleration", arXiv, 2025
 
-[project] [[arXiv]] [supplementary material] [pretrained models]
+[project] [[arXiv](https://arxiv.org/abs/2509.24142)] [supplementary material] [pretrained models]
 
 
 
